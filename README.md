@@ -62,21 +62,23 @@ Open Source Track + AI / Agents Track
 
 ---
 
-## 📈 GitHub Stats
-![Aryash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryashjain12&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryashjain12&layout=compact)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryashjain12&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryashjain12&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aryashjain12)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aryashjain12&theme=tokyonight)
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryashjain12)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryashjain12&theme=tokyo-night)
 
 ---
 
@@ -93,6 +95,7 @@ Open Source Track + AI / Agents Track
 - 🛡️ Secured 26th position in MythX Hackathon CTF (April 2026)
 - ⚔️ Secured 43rd position in Dhurandar CTF (May 2026)
 - 🚀 Contributor at GSSoC 2026
+- 🤖 Exploring AI, Open Source & Cybersecurity
 
 ---
 
