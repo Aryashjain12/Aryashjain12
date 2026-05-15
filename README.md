@@ -64,15 +64,19 @@ Open Source Track + AI / Agents Track
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryashjain12&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryashjain12&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryashjain12&show_icons=true&theme=tokyonight" />
+  
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryashjain12&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aryashjain12&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aryashjain12&theme=tokyonight" />
+</p>
 
 ---
 
