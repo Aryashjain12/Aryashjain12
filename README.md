@@ -65,9 +65,9 @@ Open Source Track + AI / Agents Track
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryashjain12&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aryashjain12&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryashjain12&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryashjain12&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
